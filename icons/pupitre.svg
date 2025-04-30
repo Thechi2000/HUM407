@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="16.145833"
-     inkscape:cx="2.1677419"
-     inkscape:cy="8.7019355"
-     inkscape:window-width="1920"
-     inkscape:window-height="991"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg1082" />
+     inkscape:zoom="11.416828"
+     inkscape:cx="17.299026"
+     inkscape:cy="1.8831851"
+     inkscape:window-width="958"
+     inkscape:window-height="981"
+     inkscape:window-x="-8"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
   <path
      fill="none"
      stroke="#000000"
@@ -53,14 +53,14 @@
        width="20.005161"
        height="4.4593554"
        x="1.9974194"
-       y="5.2645159" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;fill-opacity:1;stroke-opacity:1"
+       y="5.2645159"
+       ry="1.4539274"
+       rx="1.4448581" />
+    <path
        id="rect4141"
-       width="12.046452"
-       height="12.170322"
-       x="5.9767742"
-       y="9.8167744" />
+       style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round"
+       d="M 18.023226,9.7238712 V 20.190967 c 0,0.995056 -0.704393,1.79613 -1.579356,1.79613 H 7.5561296 c -0.8749629,0 -1.5793554,-0.801074 -1.5793554,-1.79613 V 9.7238712 Z"
+       sodipodi:nodetypes="csssscc" />
   </g>
   <path
      d="m 9.0000637,4.3682019 c 0,-0.55 0.2,-1.76 1.0000003,-2.2 m 4.999872,2.1781025 c 0,-0.55 -0.2,-1.76 -1,-2.2"
